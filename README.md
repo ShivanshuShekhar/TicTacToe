@@ -1,2 +1,2 @@
 # Tix Tac Toe - Game
-Learning and creating app using Java.
+Learning and creating mobile application using Java.
